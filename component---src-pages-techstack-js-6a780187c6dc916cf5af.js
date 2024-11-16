@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[481],{5627:function(e,t,a){a.r(t);var l=a(6540);t.default=()=>l.createElement("div",null,l.createElement("h1",null,"My Tech Stack"),l.createElement("p",null,"React, Gatsby, Vue"))}}]);
+//# sourceMappingURL=component---src-pages-techstack-js-6a780187c6dc916cf5af.js.map
